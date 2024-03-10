@@ -1,13 +1,6 @@
 Responsive Educity-University-Website
 
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ![Screenshot (16)](https://github.com/zeenatparween/Educity-University-Website/assets/111422656/c44f68c5-ea44-422e-afd8-3efe5f1e4875)
 ![Screenshot (17)](https://github.com/zeenatparween/Educity-University-Website/assets/111422656/7b9c1558-017f-4fcb-81f6-2fefcd2203b6)
